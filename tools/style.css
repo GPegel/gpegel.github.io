@@ -16,7 +16,7 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input
 }*/
 
 @font-face {
-  font-family: 'Inspiration';
+  font-family: 'Anton';
   src: url('Inspiration.ttf'); 
 }
 
@@ -43,7 +43,7 @@ margin:0;
 padding:0;
 color: #fff;
 position: relative;
-font-family: 'Lora', serif;
+font-family: 'Anton', serif;
 text-align: center;
 }
 
@@ -85,7 +85,7 @@ background-size: cover;
 }
 
 .header h1{
-	font-family: 'Inspiration', 'Lora', serif;
+	font-family: 'Anton', serif;
 	font-size: 150px;
 	color: #fff;
 }
