@@ -2,22 +2,8 @@
 
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,dfn,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
 
-
-/*@font-face {
-    font-family: 'socicon';
-    src: url('socicon/font/socicon-webfont.eot');
-    src: url('socicon/font/socicon-webfont.eot?#iefix') format('embedded-opentype'),
-         url('socicon/font/socicon-webfont.woff') format('woff'),
-         url('socicon/font/socicon-webfont.ttf') format('truetype'),
-         url('socicon/font/socicon-webfont.svg#sociconregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-    text-transform: initial;
-}*/
-
 @font-face {
-  font-family: 'Anton';
-  src: url('Inspiration.ttf'); 
+  font-family: 'Russo One', sans-serif;
 }
 
 
@@ -43,7 +29,7 @@ margin:0;
 padding:0;
 color: #fff;
 position: relative;
-font-family: 'Anton', serif;
+font-family: 'Russo One', sans-serif;
 text-align: center;
 }
 
@@ -85,7 +71,7 @@ background-size: cover;
 }
 
 .header h1{
-	font-family: 'Anton', serif;
+	font-family: 'Russo One', sans-serif;
 	font-size: 40px;
 	color: #fff;
 }
@@ -142,7 +128,7 @@ background-size: cover;
 	background: #fff;
 	border-top: none;
 	border-left: none;
-	font-family: 'Lora', serif;
+	font-family: 'Russo One', sans-serif;
 	font-weight: 400;
 	border: 2px solid #fff;
 	font-size: 16px;
@@ -171,7 +157,7 @@ background-size: cover;
 	width: 100%;
 	float: left;
 	font-size: 19px;
-	font-family: 'Anton', serif;
+	font-family: 'Russo One', sans-serif;
 	font-weight: 400;
 	cursor: pointer;
 	color: #fff;
